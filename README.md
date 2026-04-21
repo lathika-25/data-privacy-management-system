@@ -1,6 +1,6 @@
 # Data Privacy Management System
 
-A web-based application that allows users to manage their personal data privacy by submitting account deletion requests, which are processed through an admin approval workflow.
+A web-based application that allows users to manage their personal data privacy by submitting account deletion requests, which are processed through an admin approval workflow and Implements a role-based data privacy workflow system with user and admin interactions.
 
 ---
 
@@ -13,7 +13,7 @@ A web-based application that allows users to manage their personal data privacy 
 - Admin Dashboard  
 - Approve / Reject User Requests  
 - Delete User Accounts from Database  
-
+- Password hashing for secure authentication
 ---
 
 ## Project Concept
