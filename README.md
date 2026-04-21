@@ -96,7 +96,7 @@ Future Improvements
  - Deploy the application
 
 Conclusion
-This project demonstrates a complete workflow-based system with user and admin roles, focusing on data privacy and request management. It showcases backend development, database handling, and role-based access control.
+ - This project demonstrates a complete workflow-based system with user and admin roles, focusing on data privacy and request management. It showcases backend development, database handling, and role-based access control.
 
 Author
 Lathika
