@@ -83,8 +83,8 @@ Open in browser:
 ### Login Page
 ![Login](login.png)
 
-### Dashboard
-![userDashboard](userdashboard.png)
+### User Dashboard
+![Dashboard](user-space-dashboard.png)
 
 ### Admin Panel
 ![Admin](admin.png)
