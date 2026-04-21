@@ -84,7 +84,7 @@ Open in browser:
 ![Login](login.png)
 
 ### Dashboard
-![Dashboard](dashboard.png)
+![userDashboard](userdashboard.png)
 
 ### Admin Panel
 ![Admin](admin.png)
