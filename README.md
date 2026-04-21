@@ -78,35 +78,22 @@ Run the application:
 
 Open in browser:
     http://127.0.0.1:5000
-Screenshots
-(Add screenshots here)
+## Screenshots
 
+### Login Page
+![Login](login.png)
 
-Login Page
+### Dashboard
+![Dashboard](dashboard.png)
 
-
-User Dashboard
-
-
-Admin Dashboard
-
-
+### Admin Panel
+![Admin](admin.png)
 
 Future Improvements
-
-
-Implement password hashing for better security
-
-
-Add email notifications for request updates
-
-
-Improve UI/UX design
-
-
-Deploy the application
-
-
+ - Implement password hashing for better security
+ - Add email notifications for request updates
+ - Improve UI/UX design
+ - Deploy the application
 
 Conclusion
 This project demonstrates a complete workflow-based system with user and admin roles, focusing on data privacy and request management. It showcases backend development, database handling, and role-based access control.
